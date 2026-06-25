@@ -73,12 +73,20 @@ Residents                                                             |         
 Delivery Team	                                                        |                 Solution Development & Validation
 
 ### Techniques Applied
+
 -Stakeholder Mapping
+
 -RACI Analysis
+
 -Requirements Workshops
+
 -Stakeholder Interviews
+
 -Sprint Reviews
+
 -Requirements Engineering
+
+--
 
 Business requirements were decomposed into structured artefacts to support development and validation activities.
 
