@@ -1,4 +1,4 @@
-## Project Overview
+# *Project Overview*
 
 Green Cities Alliance is a sustainability-focused platform designed to connect environmentally conscious residents, Small and Medium Enterprises (SMEs), and local councils through a centralized digital solution.
 
