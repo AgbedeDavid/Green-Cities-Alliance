@@ -10,23 +10,27 @@ This repository showcases the Business Analysis activities, artefacts, technique
 
 Multiple stakeholder groups were operating independently without a structured mechanism for collaboration and decision-making.
 
-# Challenges Identified
+*Challenges Identified*
+--
 
-# Local Councils
+Local Councils
+--
 -Limited visibility into resident sustainability preferences.
 
 -Lack of actionable data to support local environmental initiatives.
 
 -Difficulty identifying products and services receiving community interest.
 
-# SMEs
+SMEs
+--
 -Limited understanding of consumer demand for eco-friendly products.
 
 -Lack of a platform for promoting sustainable offerings.
 
 -Insufficient visibility into market trends and customer preferences.
 
-# Residents
+Residents
+--
 -No centralized platform for discovering sustainable products and services.
 
 -Limited ability to influence environmental initiatives within their communities.
@@ -34,6 +38,7 @@ Multiple stakeholder groups were operating independently without a structured me
 -Lack of transparency regarding popular sustainability solutions.
 
 ## Business Analysis Objectives
+
 The primary objectives of the analysis phase were to:
 
 -Understand stakeholder needs and business goals.
@@ -52,27 +57,29 @@ The primary objectives of the analysis phase were to:
 
 A stakeholder assessment was conducted to identify key participants, interests, influence levels, and engagement strategies.
 
- *Stakeholder*                                                        |                          	*Role*
+ *Stakeholder*                          |                          	*Role*
  
 ---------------------------------------------------------------------------------------
-Green Cities Alliance                                                 |                    	Project Sponsor
+Green Cities Alliance                   |                    	Project Sponsor
 
 ----------------------------------------------------------------------------------------
-Product Owner                                                         |                    	Client Representative
+Product Owner                           |                    	Client Representative
 
 ----------------------------------------------------------------------------------------
-Local Councils                                                        |                   	Area Administrators
+Local Councils                          |                   	Area Administrators
 
 ----------------------------------------------------------------------------------------
-SMEs	                                                                |                  Product & Service Providers
+SMEs	                                   |                  Product & Service Providers
 
 ----------------------------------------------------------------------------------------
-Residents                                                             |                        	End Users
+Residents                               |                        	End Users
 
 ----------------------------------------------------------------------------------------
-Delivery Team	                                                        |                 Solution Development & Validation
+Delivery Team	                          |                 Solution Development & Validation
 
-### Techniques Applied
+
+*Techniques Applied*
+--
 
 -Stakeholder Mapping
 
@@ -84,15 +91,15 @@ Delivery Team	                                                        |         
 
 -Sprint Reviews
 
--Requirements Engineering
 
---
+# Requirements Engineering
 
 Business requirements were decomposed into structured artefacts to support development and validation activities.
 
 # Epics
 
-# EP-01 SME Management
+EP-01 SME Management
+--
 
 *Features*
 
@@ -102,7 +109,8 @@ Manage company information
 
 Associate products and services
 
-# EP-02 Product Management
+EP-02 Product Management
+--
 
 *Features*
 
@@ -116,7 +124,8 @@ Define pricing categories
 
 Product filtering functionality
 
-# EP-03 Resident Management
+EP-03 Resident Management
+--
 
 *Features*
 
@@ -126,7 +135,8 @@ Area association
 
 User profile management
 
-# EP-04 Voting System
+EP-04 Voting System
+--
 
 *Features*
 
@@ -136,7 +146,8 @@ Ranking mechanism
 
 Duplicate vote prevention
 
-# EP-05 Area Administration
+EP-05 Area Administration
+--
 
 *Features*
 
@@ -146,7 +157,8 @@ Resident-to-area mapping
 
 Community insights
 
-# EP-06 User Experience & Usability
+EP-06 User Experience & Usability
+--
 
 *Features*
 
@@ -156,13 +168,12 @@ Error handling
 
 User feedback mechanisms
 
-Requirements Prioritisation
-
---
+# Requirements Prioritisation
 
 MoSCoW prioritisation was used to classify requirements according to business value and delivery necessity.
 
-# Must Have
+Must Have
+--
 
 Resident registration
 
@@ -174,18 +185,20 @@ Area management
 
 Product filtering
 
-# Should Have
+Should Have
+--
 
 Product ranking visibility
 
 Enhanced validation controls
 
-# Could Have
+Could Have
+--
 
 Extended reporting capabilities
 
-# Won't Have
+Won't Have
+--
 
 Out-of-scope future enhancements
 
---
